@@ -1,0 +1,22 @@
+#herobanner{
+    background-image: url("https://preview.colorlib.com/theme/winter/img/banner_img.png");
+    padding: 10rem 1rem;
+    .herobanner{
+       .texts{
+        display: flex;
+        flex-direction: column;
+        gap: 1.4rem;
+        h1{
+            font-size: 3.5rem;
+        }
+        button{
+            width: 200px;
+            height: 40px;
+            background-color: #2F7DFC;
+            border: none;
+            color: white;
+            font-weight: bold;
+        }
+       } 
+    }
+}

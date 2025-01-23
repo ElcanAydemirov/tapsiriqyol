@@ -1,0 +1,21 @@
+#header {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  background-color: white;
+  padding: 1.7rem 1rem;
+}
+#header .header {
+  display: flex;
+  justify-content: space-between;
+}
+#header .header nav {
+  display: flex;
+  align-items: center;
+}
+#header .header nav ul {
+  display: flex;
+  list-style: none;
+  gap: 1.4rem;
+}
+#header .header nav ul a {
+  text-decoration: none;
+}/*# sourceMappingURL=index.css.map */

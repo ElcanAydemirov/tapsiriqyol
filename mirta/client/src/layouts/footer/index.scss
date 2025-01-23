@@ -1,0 +1,24 @@
+#footer{
+    background-color: black;
+    color: white;
+    margin-top: 80px;
+    .footer{
+
+        ul{
+            list-style: none;
+            padding: 0 ;
+            display: flex;
+            flex-direction: column;
+            gap: 1.2rem;
+        }
+        .input{
+            button{
+                background-color: #2F7DFC;
+                border: none;
+            }
+            input{
+                border: 2px solid #2F7DFC;
+            }
+        }
+    }
+}
